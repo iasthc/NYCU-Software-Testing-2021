@@ -18,6 +18,6 @@
 
 ## Contact
 - 蔡仲軒 Tsai, Chung-Hsuan
-  - Email: [chtsai.cs08@nycu.edu.tw](mailto:chtsai.cs08@nycu.edu.tw)
+  - Email: [zx.c@nycu.edu.tw](mailto:zx.c@nycu.edu.tw)
 - 吳偉誠 Wu, Wei-Cheng
   - Email: [wulearn.cs09@nycu.edu.tw](mailto:wulearn.cs09@nycu.edu.tw)
