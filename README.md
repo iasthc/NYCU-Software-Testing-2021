@@ -24,3 +24,6 @@
   - Email: [zx.c@nycu.edu.tw](mailto:zx.c@nycu.edu.tw)
 - 吳偉誠 Wu, Wei-Cheng
   - Email: [wulearn.cs09@nycu.edu.tw](mailto:wulearn.cs09@nycu.edu.tw)
+- 楊晨佑 Yang, Chen-Yu
+  - Email: [tl455047.cs09@nycu.edu.tw](mailto:tl455047.cs09@nycu.edu.tw)
+
