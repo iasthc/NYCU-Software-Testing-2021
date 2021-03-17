@@ -14,7 +14,7 @@
 
 ## Part B
 
-- eploy your Part A (PriorityQueueTest.java) on Github with public
+- Deploy your Part A (PriorityQueueTest.java) on Github with public
 - The repository is your student id
 - Connecting Travis CI with your Github
 - Make sure that Travis CI can build and test automatically
