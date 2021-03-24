@@ -27,14 +27,14 @@
     3. Add github action badge to README
 
 ## Part 4 - Use github action to automate release jar file when push is a tag pushed events
-1. 新增一個 job 為 Release
+1. 新增一個 Job 為 Release
 2. 該 Release 階段觸發條件為只有 Git tag push 的時候
-3. 第三階段 Assemble jar file 後透過 ***action-gh-release*** 加入到 Github release 裡面
+3. 第三階段 Assemble jar file 後，在第四階段透過 ***[action-gh-release](https://github.com/softprops/action-gh-release)*** 加入到 Github release 裡面
 
 ## Bonus - Use action/cache to cache your dependencies and speed up your build time.
 1. 每個 Job 獨立環境
 2. 專案龐大, Dependencies 肥大問題
-3. 嘗試使用 ***action/cache*** 來 cache 你的 dependencies 供每次 workflow 利用
+3. 嘗試使用 ***[action/cache](https://github.com/actions/cache)*** 來 cache 你的 dependencies 供每次 workflow 利用
 
 ## 繳交方式
 - 請上傳一份 **PDF** 說明文件至 E3, 內容需含以下幾點
@@ -45,3 +45,8 @@
         - step3, step4 請額外附上對應的 github workflow 連結參考 (以此當基準點評分)
         - 如果有做 Bonus 也請說明分析減少了哪些部分,那些部分因此加速了
     - (Optional) 作業心得
+
+
+----
+
+**更多資訊或細節評分點與注意事項請參考該次 Lab 投影片簡報與課堂影片**
