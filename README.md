@@ -19,6 +19,7 @@
    - 蔡仲軒 Chung-Hsuan Tsai - zx.c@nycu.edu.tw
    - 吳偉誠 Wei-Cheng Wu - wulearn.cs09@nycu.edu.tw
    - 楊晨佑 Chen-Yu Yang - tl455047.cs09@nycu.edu.tw
+   - 藍笙祐 SHENG-YOU LAN - setsal.cs08g [at] nctu.edu.tw ( LAB4 only )
 - [Facebook Group](https://www.facebook.com/groups/softwaretesting.nycu)
 
 ## Credits
