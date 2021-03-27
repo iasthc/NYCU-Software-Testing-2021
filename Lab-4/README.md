@@ -19,10 +19,10 @@
     3. all draw cases
     4. valid/invalid input cases
 
-## Part 3 - Use github action to build, test, assemble jar
+## Part 3 - Use github action to compile, test, assemble jar
 - 將程式托管到 github 上並公開 ( 名稱請取 st_nycu_lab4_*[你的學號]* )
 - 撰寫 github action
-    1. 只要有新 commit 並 push, 就需執行 **Build, Test, Assemble**
+    1. 只要有新 commit 並 push, 就需執行 **Compile, Test, Assemble**
     2. **Storing workflow "all test report directory", "assemble jar file" as workflow artifacts**
     3. Add github action badge to README
 
