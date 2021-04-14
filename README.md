@@ -11,3 +11,5 @@
 8. Program Security Detect
 9. Fuzz Testing
 10. Symbolic Execution
+
+- [Midterm Hints](https://docs.google.com/presentation/d/1k_7HXYjRA4Eyb4tQou5Cc-icrqm9Fc7ua7XDPiotb-M/edit?usp=sharing)
