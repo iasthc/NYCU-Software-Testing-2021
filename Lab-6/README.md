@@ -1,4 +1,4 @@
-# Lab 5: Web Applications Testing
+# Lab 6: Control Flow Graph
 
 - Download ***Lab_6.c*** from Github.
 - Generate **call graph** & **control flow graph** from the program above. 
