@@ -7,9 +7,8 @@
 4. [CI/CD with Github Action](https://drive.google.com/file/d/1PAZYSFuAbSUWNs3LDwnZgm5eDWj9p8Vt/view)
 5. [Web Applications Testing](https://docs.google.com/presentation/d/102Y0TxeRAEMtixk2xn45elrbkVlh_K3jgd-7ZAL_DWc/edit?usp=sharing)
 6. [Control Flow Graph](https://docs.google.com/presentation/d/1YXJJiwb6pgOgM3Zm3y0WLgujHJD7vXeI4C9lIr-feD0/edit?usp=sharing)
-7. Behavior-Driven Development
-8. Program Security Detect
-9. Fuzz Testing
-10. Symbolic Execution
+7. [Valgrind & Sanitizer](https://docs.google.com/presentation/d/1_ZxHpCQiKs_xZd0cAWcHBJ9WeEbcmlQziTUwa4XEnl4/edit?usp=sharing)
+8. Fuzz Testing
+9. Symbolic Execution
 
 - [Midterm Hints](https://docs.google.com/presentation/d/1k_7HXYjRA4Eyb4tQou5Cc-icrqm9Fc7ua7XDPiotb-M/edit?usp=sharing)
