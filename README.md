@@ -7,6 +7,6 @@
 5. [Control Flow Graph](https://docs.google.com/presentation/d/18on6ubPk7eAkLalTKbB_SwpfZv7OFc04BmKks2A8UHU/edit?usp=sharing)
 6. [Valgrind & Sanitizer](https://docs.google.com/presentation/d/1xgfRAfqE-1hOi___-Ps2Nnh_dCb0k93PajnU0xzQvfA/edit?usp=sharing)
 7. [Fuzz Testing](https://docs.google.com/presentation/d/1A2MJZeHWybAYnD9PdCLdn1V8uiGaTyho9wIskWnq-kk/edit?usp=sharing)
-8. Symbolic Execution
+8. [Symbolic Execution](https://docs.google.com/presentation/d/1VBR-t2i0YcDdafskufGmeb9y7aWPOb5e0YucuoNkpFU/edit?usp=sharing)
 
 - [Midterm Hints](https://docs.google.com/presentation/d/1KEmmE-EMPOKiEQLVWSUVQQikKmuWAbkN3wofC_4bTsk/edit?usp=sharing)
