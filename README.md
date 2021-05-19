@@ -11,4 +11,5 @@
 8. [Fuzz Testing](https://docs.google.com/presentation/d/15hy8xgBW-2MOAxQ7tL6uxS_3gRJnYqCSXm9JUOnNqgs/edit?usp=sharing)
 9. [Symbolic Execution](https://docs.google.com/presentation/d/14BeW6NeRKGXhjyuTOuHoAP6FRq-yEWrPjRDcX1juOeM/edit?usp=sharing)
 
-- [Midterm Hints](https://docs.google.com/presentation/d/1k_7HXYjRA4Eyb4tQou5Cc-icrqm9Fc7ua7XDPiotb-M/edit?usp=sharing)
+- [Q&A I](https://docs.google.com/presentation/d/1k_7HXYjRA4Eyb4tQou5Cc-icrqm9Fc7ua7XDPiotb-M/edit?usp=sharing)
+- [Q&A II](https://docs.google.com/presentation/d/1xfZIKDOY-DAdoB3LuTsh3SzV--j1dtNOroVPkC_vbKg/edit?usp=sharing)
