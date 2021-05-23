@@ -9,5 +9,6 @@
 7. [Fuzz Testing](https://docs.google.com/presentation/d/1A2MJZeHWybAYnD9PdCLdn1V8uiGaTyho9wIskWnq-kk/edit?usp=sharing)
 8. [Symbolic Execution](https://docs.google.com/presentation/d/1VBR-t2i0YcDdafskufGmeb9y7aWPOb5e0YucuoNkpFU/edit?usp=sharing)
 
-- [Midterm Hints](https://docs.google.com/presentation/d/1KEmmE-EMPOKiEQLVWSUVQQikKmuWAbkN3wofC_4bTsk/edit?usp=sharing)
+- [Q&A I](https://docs.google.com/presentation/d/1KEmmE-EMPOKiEQLVWSUVQQikKmuWAbkN3wofC_4bTsk/edit?usp=sharing)
+- [Q&A II](https://docs.google.com/presentation/d/1kUgDrfDDTynmOBtLsrR2rRVJ4Nf7YXafH9MbX-QvSHs/edit?usp=sharing)
 - [AWS Educate & EC2](https://docs.google.com/presentation/d/1pWtKhIqeLevJafTYzt1Q9pjd5fXCRe8bCfAzTQmM5UA/edit?usp=sharing)
