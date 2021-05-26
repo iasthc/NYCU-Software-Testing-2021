@@ -13,3 +13,4 @@
 
 - [Q&A I](https://docs.google.com/presentation/d/1k_7HXYjRA4Eyb4tQou5Cc-icrqm9Fc7ua7XDPiotb-M/edit?usp=sharing)
 - [Q&A II](https://docs.google.com/presentation/d/1xfZIKDOY-DAdoB3LuTsh3SzV--j1dtNOroVPkC_vbKg/edit?usp=sharing)
+- [Homework 4](https://docs.google.com/presentation/d/1GhtmU8ezQbgOx6awPVHTKND8DaQm_FPNt5reqqYBpZ8/edit?usp=sharing)
